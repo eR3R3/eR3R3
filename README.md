@@ -12,7 +12,7 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
   - **Expert**: Rust 🦀, TypeScript ⚡, Python 🐍
   - **Improving**: C++ 🚀, C ⚡
 - 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
-  - 📧 **Email**: er1r1@qq.com
+  - 📧 **Email**: er1r1@qq.com or lucastao637@gmail.com
   - 💬 **WeChat**: **loulanjuantaoyuwen**
 - 🏀 **Basketball Player**: Have been playing Basketball for 6 years
 ---
