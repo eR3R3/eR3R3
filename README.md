@@ -15,7 +15,7 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
   - 📧 **Email**: er1r1@qq.com or lucastao637@gmail.com
   - 💬 **WeChat**: **loulanjuantaoyuwen**
 - 🏀 **Basketball Player**: Have been playing Basketball for 6 years
----
+
 
 
 
@@ -41,7 +41,7 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 ![Actix](https://img.shields.io/badge/Actix-000000?logo=actix-web&logoColor=white&style=for-the-badge)
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=axum&logoColor=white&style=for-the-badge)
 
----
+
 
 ## 🌍 Let's Connect!
 
