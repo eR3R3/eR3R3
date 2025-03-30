@@ -17,7 +17,8 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 - 🏀 **Basketball Player**: Have been playing Basketball for 6 years
 ---
 
-![eR3R3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eR3R3&show_icons=true&theme=radical)
+![GitHub Linguist](https://img.shields.io/badge/GitHub%20Linguist-000000?logo=github&logoColor=white&style=for-the-badge)
+
 
 ## 🔧 Tech Stack
 
