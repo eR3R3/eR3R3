@@ -1,20 +1,23 @@
 # Hi there! ✨ I'm eR3R3! 🚀
 
-I'm a passionate **Database and Website Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
+I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
 
 ## 🚀 About Me
 
 - 🛢 **Database Expert**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
 - 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
-- 📈 **Current Focus**: Enhancing my skills in building Storage System for **Vector DBs, Graph DBs, and Distributed Systems**.
+-  🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
+- 📈 **Current Focus**: Enhancing my skills in building **Storage Engine**.
 - 💻 **Programming Languages**:
   - **Expert**: Rust 🦀, TypeScript ⚡, Python 🐍
   - **Improving**: C++ 🚀, C ⚡
-- 🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
-- 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab, feel free to find me at
+- 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
   - 📧 **Email**: er1r1@qq.com
   - 💬 **WeChat**: **loulanjuantaoyuwen**
+- 🏀 **Basketball Player**: Have been playing Basketball for 6 years
 ---
+
+![eR3R3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eR3R3&show_icons=true&theme=radical)
 
 ## 🔧 Tech Stack
 
@@ -23,7 +26,7 @@ I'm a passionate **Database and Website Enthusiast**! I am currently a sophomore
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?logo=vector-db&logoColor=white&style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?logo=qdrant&logoColor=white&style=for-the-badge)
 
 ### **Programming Languages** 💻
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
@@ -36,7 +39,7 @@ I'm a passionate **Database and Website Enthusiast**! I am currently a sophomore
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Actix](https://img.shields.io/badge/Actix-000000?logo=actix-web&logoColor=white&style=for-the-badge)
-![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Axum](https://img.shields.io/badge/Axum-000000?logo=axum&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -48,4 +51,10 @@ I'm a passionate **Database and Website Enthusiast**! I am currently a sophomore
 - 💬 **WeChat**: **loulanjuantaoyuwen**
 
 Let's build something **awesome** together! 🚀🔥
+
+
+
+
+
+
 
