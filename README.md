@@ -10,15 +10,21 @@
 I prefer to contact through email or WeChat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eR3R3&layout=compact&theme=tokyonight)
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eR3R3&theme=radical)
 
-## Here are some tools I use
 ### Systems
-![iOS](https://img.shields.io/badge/iOS-black?logo=apple)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple)
+![iOS](https://img.shields.io/badge/iOS-black?logo=apple&style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&style=for-the-badge)
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)
+
+### Web Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge)
+![Actix](https://img.shields.io/badge/Actix-000000?logo=actix-web&style=for-the-badge)
+![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&style=for-the-badge)
+
+
