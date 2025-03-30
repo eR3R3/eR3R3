@@ -17,8 +17,6 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 - 🏀 **Basketball Player**: Have been playing Basketball for 6 years
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eR3R3)
-
 
 ## 🔧 Tech Stack
 
