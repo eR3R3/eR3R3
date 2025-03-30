@@ -7,7 +7,7 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 - 🛢 **Database Expert**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
 - 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
 -  🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
-- 📈 **Current Focus**: Enhancing my skills in building **Storage Engine**.
+- 📈 **Current Focus**: Enhancing my skills in building **Storage Engine** and my understanding on Graph Database.
 - 💻 **Programming Languages**:
   - **Expert**: Rust 🦀, TypeScript ⚡, Python 🐍
   - **Improving**: C++ 🚀, C ⚡
