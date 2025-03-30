@@ -4,7 +4,7 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 
 ## 🚀 About Me
 
-- 🛢 **DBs That I Have Deep Understanding of the Structures**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
+- 🛢 **DBs Types That I Have Deep Understanding of the Structures**: **Key-Value DBs, Relational DBs, and Vector DBs**.
 - 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
 -  🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
 - 📈 **Current Focus**: Enhancing my skills in building **Storage Engine** and my understanding on Graph Database.
