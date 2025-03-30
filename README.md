@@ -1,30 +1,51 @@
-# Hi there 👋 I'm Lucas Tao!
+# Hi there! ✨ I'm eR3R3! 🚀
 
-## I'm high school freshmen interested in Database
-- 🎮 I'm currently learning about Rasterization and preparing for IBDP May 2025 exam
-- 🌱 I'm currently improving my skills in Typescript, Python, Java, Kotlin, Swift, and Rust
-- 💬 Feel free to talk with me about anything related to programming, games or computer graphics
-- 🎶 I've been playing piano for 14 years and am the principal trumpet player in my school orchestra
+I'm a passionate **Database and Website Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
 
-## Contact
-I prefer to contact through email or WeChat
+## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eR3R3&layout=compact&theme=tokyonight)
+- 🛢 **Database Expert**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
+- 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
+- 📈 **Current Focus**: Enhancing my skills in building Storage System for **Vector DBs, Graph DBs, and Distributed Systems**.
+- 💻 **Programming Languages**:
+  - **Expert**: Rust 🦀, TypeScript ⚡, Python 🐍
+  - **Improving**: C++ 🚀, C ⚡
+- 🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
+- 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab, feel free to find me at
+  - 📧 **Email**: er1r1@qq.com
+  - 💬 **WeChat**: **loulanjuantaoyuwen**
+---
 
-### Systems
-![iOS](https://img.shields.io/badge/iOS-black?logo=apple&style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&style=for-the-badge)
+## 🔧 Tech Stack
 
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)
+### **Databases** 🛢
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?logo=vector-db&logoColor=white&style=for-the-badge)
 
-### Web Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge)
-![Actix](https://img.shields.io/badge/Actix-000000?logo=actix-web&style=for-the-badge)
-![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&style=for-the-badge)
+### **Programming Languages** 💻
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
+### **Web Frameworks** 🌐
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+![Actix](https://img.shields.io/badge/Actix-000000?logo=actix-web&logoColor=white&style=for-the-badge)
+![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌍 Let's Connect!
+
+🤝 I'm always open to collaboration on **Hackathons** 🏆 or **Database Projects** 📊! Feel free to reach out:
+
+- 📧 **Email**: er1r1@qq.com
+- 💬 **WeChat**: **loulanjuantaoyuwen**
+
+Let's build something **awesome** together! 🚀🔥
 
