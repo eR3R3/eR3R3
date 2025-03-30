@@ -4,12 +4,12 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 
 ## 🚀 About Me
 
-- 🛢 **Database Expert**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
+- 🛢 **DBs That I Have Deep Understanding of the Structures**: Proficient in **Key-Value DBs, Relational DBs, and Vector DBs**.
 - 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
 -  🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
 - 📈 **Current Focus**: Enhancing my skills in building **Storage Engine** and my understanding on Graph Database.
 - 💻 **Programming Languages**:
-  - **Expert**: Rust 🦀, TypeScript ⚡, Python 🐍
+  - **Proficient**: Rust 🦀, TypeScript ⚡, Python 🐍
   - **Improving**: C++ 🚀, C ⚡
 - 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
   - 📧 **Email**: er1r1@qq.com or lucastao637@gmail.com
