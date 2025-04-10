@@ -5,14 +5,10 @@ I'm a **Database, AI and Web Enthusiast**! I am currently a sophomore at ShangHa
 ## About Me
 
 - **Current Focus**: Enhancing my skills in **Storage Engine**, the LSM Tree and B+ Tree.
-- **Programming Languages**:
-  - **Proficient**: Rust, TypeScript, Python
-  - **Improving**: C++
--  **Web Frameworks**: Next.js, NestJS, Axum, Actix.
-- **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
+- **Hackathon**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
   - **Email**: er1r1@qq.com or lucastao637@gmail.com
   - **WeChat**: **loulanjuantaoyuwen**
-- **Basketball Player**: Have been playing Basketball for 6 years, used to play for RPS
+- **Basketball**: Have been playing Basketball for 6 years, used to play for RPS
 
 
 ## Tech Stack
