@@ -5,7 +5,7 @@ I'm a **Database, AI and Web Enthusiast**! I am currently a sophomore at ShangHa
 ## 🚀 About Me
 
 - **Current Focus**: Enhancing my skills in **Storage Engine**, the LSM Tree and B+ Tree.
-- - **Programming Languages**:
+- **Programming Languages**:
   - **Proficient**: Rust, TypeScript, Python
   - **Improving**: C++
 -  **Web Frameworks**: Next.js, NestJS, Axum, Actix.
