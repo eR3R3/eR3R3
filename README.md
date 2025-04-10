@@ -1,6 +1,6 @@
 # Hi there! I'm eR3R3!
 
-I'm a **Database, AI and Web Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
+I'm a **Database, AI and Web Enthusiast**. I am currently a sophomore at ShangHai Pinghe Bilingual School. 
 
 ## About Me
 
