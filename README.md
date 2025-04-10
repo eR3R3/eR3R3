@@ -12,7 +12,7 @@ I'm a **Database, AI and Web Enthusiast**! I am currently a sophomore at ShangHa
 - **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
   - **Email**: er1r1@qq.com or lucastao637@gmail.com
   - **WeChat**: **loulanjuantaoyuwen**
-- **Basketball Player**: Have been playing Basketball for 6 years
+- **Basketball Player**: Have been playing Basketball for 6 years, used to play for RPS
 
 
 ## Tech Stack
