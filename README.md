@@ -1,22 +1,18 @@
 # Hi there! ✨ I'm eR3R3! 🚀
 
-I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
+I'm a **Database, AI and Web Enthusiast**! I am currently a sophomore at ShangHai Pinghe Bilingual School. 
 
 ## 🚀 About Me
 
-- 🛢 **DBs Types That I Have Deep Understanding of the Structures**: Key-Value DBs, Relational DBs, and Vector DBs.
-- 🏛 **DBs I Use**: PostgreSQL, Neo4j, Redis, MongoDB, Qdrant.
--  🌐 **Web Frameworks**: Next.js, NestJS, Axum, Actix.
-- 📈 **Current Focus**: Enhancing my skills in building **Storage Engine** and my understanding on Graph Database.
-- 💻 **Programming Languages**:
-  - **Proficient**: Rust 🦀, TypeScript ⚡, Python 🐍
-  - **Improving**: C++ 🚀, C ⚡
-- 🎯 **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
+- **Current Focus**: Enhancing my skills in **Storage Engine**, the LSM Tree and B+ Tree.
+- - **Programming Languages**:
+  - **Proficient**: Rust, TypeScript, Python
+  - **Improving**: C++
+-  **Web Frameworks**: Next.js, NestJS, Axum, Actix.
+- **Hackathon Enthusiast**: Find me at [Devpost](https://devpost.com/eR3R3/challenges), if you want to collab or just talk about coding, feel free to find me at
   - 📧 **Email**: er1r1@qq.com or lucastao637@gmail.com
   - 💬 **WeChat**: **loulanjuantaoyuwen**
-- 🏀 **Basketball Player**: Have been playing Basketball for 6 years
-
-
+- **Basketball Player**: Have been playing Basketball for 6 years
 
 
 ## 🔧 Tech Stack
@@ -33,7 +29,6 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
 ### **Web Frameworks** 🌐
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
@@ -42,15 +37,11 @@ I'm a passionate **Database, AI and Website Enthusiast**! I am currently a sopho
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=axum&logoColor=white&style=for-the-badge)
 
 
-
 ## 🌍 Let's Connect!
 
 🤝 I'm always open to collaboration on **Hackathons** 🏆 or **Database Projects** 📊! Feel free to reach out:
-
 - 📧 **Email**: er1r1@qq.com
 - 💬 **WeChat**: **loulanjuantaoyuwen**
-
-Let's build something **awesome** together! 🚀🔥
 
 
 
