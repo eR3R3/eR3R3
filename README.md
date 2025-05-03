@@ -1,4 +1,4 @@
-# Hi there! I'm eR3R3!
+# Hi there! I'm Yuwen "Lucas" Tap!
 
 I'm a **Database, AI and Web Enthusiast**. I am currently a sophomore at ShangHai Pinghe Bilingual School. 
 
