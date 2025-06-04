@@ -11,7 +11,7 @@ I'm a **Database, AI and Web Enthusiast**. I am currently a sophomore at ShangHa
 
 ## How to Connect
 I'm open to collaboration on **Hackathons**  or **Database Projects**:
-- **Email**: er1r1@qq.comor lucastao637@gmail.com
+- **Email**: er1r1@qq.com or lucastao637@gmail.com
 
 
 
